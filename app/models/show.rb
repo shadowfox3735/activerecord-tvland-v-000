@@ -1,5 +1,8 @@
 class Show < ActiveRecord::Base
   has_many :characters
   
-  def
+  def build
+    
+  end
+  
 end
